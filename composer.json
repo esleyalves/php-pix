@@ -1,5 +1,5 @@
 {
-    "name": "piggly/php-pix",
+    "name": "esleyalves/php-pix",
     "description": "Uma biblioteca para preparar e gerar o código Pix do Banco Central do Brasil.",
     "keywords": [
         "piggly",
@@ -10,7 +10,7 @@
         "payment"
     ],
     "type": "library",
-    "homepage": "https://github.com/piggly-dev/php-pix",
+    "homepage": "https://github.com/esleyalves/php-pix",
     "autoload": {
         "psr-4": {
             "Piggly\\Pix\\": "src"
